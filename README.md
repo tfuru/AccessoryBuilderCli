@@ -1,6 +1,9 @@
 # AccessoryBuilderCli
 コマンドラインからClusterのアクセサリを作成するツール
 
+アクセサリー作成を Unity不要で Webから利用できるようにしたくて Creator Kit を解析した時にできた副産物
+Webサービス化の前の調査用に作成したものなので、不具合があるかもしれません。
+
 # Cluster アクセストークン変更
 `app/.env` ファイルの内容を自分の [cluster アクセストークン](https://cluster.mu/account/tokens) に変更する
 
