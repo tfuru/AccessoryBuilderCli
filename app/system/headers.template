@@ -1,0 +1,6 @@
+Content-Type: application/json
+X-Cluster-App-Version: 2.3.1
+X-Cluster-Device: ClusterCreatorKit
+X-Cluster-Platform: Web
+X-Cluster-Platform-Version: 2021.3.4
+X-Cluster-Access-Token: {ClusterAccessToken}
